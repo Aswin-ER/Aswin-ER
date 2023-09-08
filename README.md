@@ -29,4 +29,6 @@
 </p>
 <br/>
 
-- Keeping myself updated with React course, Namastey React by Akshay Saini.
+- Self taught MERN Stack Developer, curious to learn more about developing scalable
+distributed systems, loves problem solving and cares about writing readable as well as
+maintainable code.
