@@ -14,7 +14,6 @@
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mongodb.png" width="48" height="48"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48"/> </a> 
   <a href="https://tailwind.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" width="48" height="48"/> </a> 
-   <a href="https://firebase.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-firebase-icon.png" width="48" height="48"/> </a> 
    <a href="https://nginx.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nginx-icon.png" width="48" height="48"/> </a> 
    <a href="https://postgresql.org" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" width="48" height="48"/> </a> 
    <a href="https://socket.io" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/socket-io-icon.png" width="48" height="48"/> </a> 
